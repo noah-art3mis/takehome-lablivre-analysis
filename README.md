@@ -2,8 +2,6 @@
 
 Ver relatório em `relatorio_lablivre.ipynb`.
 
-LabLivre - Teste avaliativo para vaga de bolsista em engenharia/análise de dados
+Teste avaliativo para vaga de bolsista em engenharia/análise de dados (LabLivre). Ver [material de referência](https://docs.google.com/document/d/1WWBnAodJoDo40WZ6ysI5cGx90KFYAp7GTFLrWPjmMFE/edit?tab=t.0)
 
-Referência para teste avaliativo: https://docs.google.com/document/d/1WWBnAodJoDo40WZ6ysI5cGx90KFYAp7GTFLrWPjmMFE/edit?tab=t.0
-
-Documentação da API da fonte de dados (obrasgov): https://api.obrasgov.gestao.gov.br/obrasgov/api/swagger-ui/index.html#/Projeto De Investimento/buscarPorFiltro
+Fonte de dados: [obrasgov](https://api.obrasgov.gestao.gov.br/obrasgov/api/swagger-ui/index.html#/Projeto De Investimento/buscarPorFiltro) 
