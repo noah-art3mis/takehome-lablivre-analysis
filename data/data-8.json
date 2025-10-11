@@ -1,0 +1,2142 @@
+[
+    {
+        "idUnico": "44479.53-69",
+        "nome": "Pavimenta\u00e7\u00e3o de rodovias distritais, estradas vicinais e/ou vias locais",
+        "cep": null,
+        "endereco": null,
+        "descricao": "Pavimenta\u00e7\u00e3o de rodovias distritais, estradas vicinais e/ou vias locais com consequente melhoria de vida para a popula\u00e7\u00e3o local.",
+        "funcaoSocial": "Estudantes, professores, servidores das escolas rurais, bem como produtores localizados pr\u00f3ximos \u00e0s rodovias (distritais, estradas vicinais e vias locais) beneficiadas na regi\u00e3o da Ceil\u00e2ndia.. Eliminar poeira oriunda do per\u00edodo de seca e muito prejudicial \u00e0 sa\u00fade das pessoas e eliminar risco de acidentes em \u00e9pocas de chuva por causa de atoleiros, \u00e1gua empossada com a pavimenta\u00e7\u00e3o de acessos \u00e0s escolas rurais (rodovias distritais, estradas vicinais e vias locais). Melhoria no desenvolvimento social, facilitando o acesso \u00e0 educa\u00e7\u00e3o e econ\u00f4mico desses locais, tem em vista a garantia de escoamento dos produtos agr\u00edcolas em todas as \u00e9pocas do ano.",
+        "metaGlobal": "Pavimenta\u00e7\u00e3o de rodovias distritais, estradas vicinais e/ou vias locais com consequente melhoria de vida para a popula\u00e7\u00e3o local.",
+        "dataInicialPrevista": "2021-12-17",
+        "dataFinalPrevista": "2026-12-17",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2024-10-31",
+        "especie": "Constru\u00e7\u00e3o",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Em execu\u00e7\u00e3o",
+        "descPlanoNacionalPoliticaVinculado": null,
+        "uf": "DF",
+        "qdtEmpregosGerados": null,
+        "descPopulacaoBeneficiada": null,
+        "populacaoBeneficiada": null,
+        "observacoesPertinentes": null,
+        "isModeladaPorBim": false,
+        "dataSituacao": "2025-07-10",
+        "tomadores": [],
+        "executores": [
+            {
+                "nome": "DEPARTAMENTO DE ESTRADAS DE RODAGEM DO DISTRITO FEDERAL",
+                "codigo": 70532000103
+            }
+        ],
+        "repassadores": [
+            {
+                "nome": "MINIST\u00c9RIO DA INTEGRA\u00c7\u00c3O E DO DESENVOLVIMENTO REGIONAL",
+                "codigo": 308799
+            }
+        ],
+        "eixos": [
+            {
+                "id": 3,
+                "descricao": "Econ\u00f4mico"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 24,
+                "descricao": "Infraestrutura Urbana e Mobilidade",
+                "idEixo": 3
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 58,
+                "descricao": "Pavimenta\u00e7\u00e3o",
+                "idTipo": 24
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 22495684.68
+            }
+        ]
+    },
+    {
+        "idUnico": "33081.53-23",
+        "nome": "Pavimenta\u00e7\u00e3o Caminho das Escolas- Regi\u00e3o de Brazl\u00e2ndia.(Etapa 2)",
+        "cep": null,
+        "endereco": null,
+        "descricao": "Pavimenta\u00e7\u00e3o de Estradas Vicinais",
+        "funcaoSocial": "Estudantes, professores, servidores das escolas rurais, bem como produtores localizados pr\u00f3ximos \u00e0s rodovias (distritais,\nestradas vicinais e vias locais) beneficiadas na regi\u00e3o do Distrito Federal. Atenuar poeira oriunda do per\u00edodo de seca e muito prejudicial \u00e0 sa\u00fade das pessoas e eliminar risco de acidentes em \u00e9pocas de\nchuva por causa de atoleiros, \u00e1gua empossada com a pavimenta\u00e7\u00e3o de acessos \u00e0s escolas rurais (rodovias distritais, estradas\nvicinais e vias locais). Melhoria no desenvolvimento social, facilitando o acesso \u00e0 educa\u00e7\u00e3o e econ\u00f4mico desses locais, tem em vista a garantia de\nescoamento dos produtos agr\u00edcolas em todas as \u00e9pocas do ano",
+        "metaGlobal": "Pavimenta\u00e7\u00e3o de Estradas Vicinais",
+        "dataInicialPrevista": "2023-12-31",
+        "dataFinalPrevista": "2027-12-31",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2024-01-04",
+        "especie": "Constru\u00e7\u00e3o",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Cadastrada",
+        "descPlanoNacionalPoliticaVinculado": null,
+        "uf": "DF",
+        "qdtEmpregosGerados": null,
+        "descPopulacaoBeneficiada": null,
+        "populacaoBeneficiada": null,
+        "observacoesPertinentes": null,
+        "isModeladaPorBim": false,
+        "dataSituacao": "2024-01-04",
+        "tomadores": [],
+        "executores": [
+            {
+                "nome": "DEPARTAMENTO DE ESTRADAS DE RODAGEM DO DISTRITO FEDERAL",
+                "codigo": 70532000103
+            }
+        ],
+        "repassadores": [
+            {
+                "nome": "MINIST\u00c9RIO DA INTEGRA\u00c7\u00c3O E DO DESENVOLVIMENTO REGIONAL",
+                "codigo": 308799
+            }
+        ],
+        "eixos": [
+            {
+                "id": 3,
+                "descricao": "Econ\u00f4mico"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 24,
+                "descricao": "Infraestrutura Urbana e Mobilidade",
+                "idEixo": 3
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 58,
+                "descricao": "Pavimenta\u00e7\u00e3o",
+                "idTipo": 24
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 8498664.0
+            }
+        ]
+    },
+    {
+        "idUnico": "28658.53-70",
+        "nome": "Pavimenta\u00e7\u00e3o de estradas vicinais",
+        "cep": null,
+        "endereco": null,
+        "descricao": "Pavimenta\u00e7\u00e3o de estradas vicinais",
+        "funcaoSocial": "Fam\u00edlias da regi\u00e3o rural de S\u00e3o Sebasti\u00e3o Distrito Federal. Localidade produtora de hortali\u00e7as e frutas.. Devido a falta de pavimenta\u00e7\u00e3o na regi\u00e3o rural de S\u00e3o Sebasti\u00e3o, nos per\u00edodos de seca, o levantamento de poeira reduz a visibilidade dos condutores e durante as chuvas, h\u00e1 atolando e quebra dos ve\u00edculos. Neste sentido a obra em quest\u00e3o pretende diminuir o risco de acidentes e melhorar a mobilidade e seguran\u00e7a dos produtores rurais da regi\u00e3o.. Melhora do fluxo de produtores na regi\u00e3o em todas as esta\u00e7\u00f5es do ano atendendo aos objetivos do programa que consiste no apoio \u00e0 infraestrutura produtiva, compreendendo: constru\u00e7\u00e3o e manuten\u00e7\u00e3o de vias e obras rodovi\u00e1rias estaduais e municipais destinadas \u00e0 integra\u00e7\u00e3o de escoamento produtivo.",
+        "metaGlobal": "Pavimenta\u00e7\u00e3o de estradas vicinais",
+        "dataInicialPrevista": "2023-11-29",
+        "dataFinalPrevista": "2027-11-29",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2023-11-28",
+        "especie": "Constru\u00e7\u00e3o",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Cadastrada",
+        "descPlanoNacionalPoliticaVinculado": null,
+        "uf": "DF",
+        "qdtEmpregosGerados": null,
+        "descPopulacaoBeneficiada": null,
+        "populacaoBeneficiada": null,
+        "observacoesPertinentes": null,
+        "isModeladaPorBim": false,
+        "dataSituacao": "2023-11-28",
+        "tomadores": [],
+        "executores": [
+            {
+                "nome": "DEPARTAMENTO DE ESTRADAS DE RODAGEM DO DISTRITO FEDERAL",
+                "codigo": 70532000103
+            }
+        ],
+        "repassadores": [
+            {
+                "nome": "MINIST\u00c9RIO DA INTEGRA\u00c7\u00c3O E DO DESENVOLVIMENTO REGIONAL",
+                "codigo": 308799
+            }
+        ],
+        "eixos": [
+            {
+                "id": 3,
+                "descricao": "Econ\u00f4mico"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 24,
+                "descricao": "Infraestrutura Urbana e Mobilidade",
+                "idEixo": 3
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 58,
+                "descricao": "Pavimenta\u00e7\u00e3o",
+                "idTipo": 24
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 4075114.0
+            }
+        ]
+    },
+    {
+        "idUnico": "28194.53-43",
+        "nome": "Pavimenta\u00e7\u00e3o de estradas vicinais.",
+        "cep": null,
+        "endereco": null,
+        "descricao": "Pavimenta\u00e7\u00e3o de estradas vicinais.",
+        "funcaoSocial": "65 fam\u00edlias  produtoras rurais de Brazl\u00e2ndia Distrito Federal.  \nLocalidade produtora de morango, hortali\u00e7as e frutas.. Devido a falta de pavimenta\u00e7\u00e3o na regi\u00e3o rural de Brazl\u00e2ndia, nos per\u00edodos de seca, o levantamento de poeira reduz a visibilidade dos condutores e durante as chuvas, h\u00e1 atolando e quebra dos ve\u00edculos.  Neste sentido a obra em quest\u00e3o pretende diminuir o risco de acidentes e melhorar a mobilidade e seguran\u00e7a dos produtores rurais da regi\u00e3o.. Melhora do fluxo de produtores na regi\u00e3o em todas as esta\u00e7\u00f5es do ano atendendo aos objetivos do programa que consiste no apoio \u00e0 infraestrutura produtiva, compreendendo: constru\u00e7\u00e3o e manuten\u00e7\u00e3o de vias e obras rodovi\u00e1rias estaduais e municipais destinadas \u00e0 integra\u00e7\u00e3o de escoamento produtivo.",
+        "metaGlobal": "Pavimenta\u00e7\u00e3o de estradas vicinais.",
+        "dataInicialPrevista": "2023-11-27",
+        "dataFinalPrevista": "2027-11-27",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2023-11-22",
+        "especie": "Constru\u00e7\u00e3o",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Cadastrada",
+        "descPlanoNacionalPoliticaVinculado": null,
+        "uf": "DF",
+        "qdtEmpregosGerados": null,
+        "descPopulacaoBeneficiada": null,
+        "populacaoBeneficiada": null,
+        "observacoesPertinentes": null,
+        "isModeladaPorBim": false,
+        "dataSituacao": "2023-11-22",
+        "tomadores": [],
+        "executores": [
+            {
+                "nome": "DEPARTAMENTO DE ESTRADAS DE RODAGEM DO DISTRITO FEDERAL",
+                "codigo": 70532000103
+            }
+        ],
+        "repassadores": [
+            {
+                "nome": "MINIST\u00c9RIO DA INTEGRA\u00c7\u00c3O E DO DESENVOLVIMENTO REGIONAL",
+                "codigo": 308799
+            }
+        ],
+        "eixos": [
+            {
+                "id": 3,
+                "descricao": "Econ\u00f4mico"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 25,
+                "descricao": "Rodovia",
+                "idEixo": 3
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 85,
+                "descricao": "Estradas Vicinais",
+                "idTipo": 25
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 10516607.43
+            }
+        ]
+    },
+    {
+        "idUnico": "42002.53-82",
+        "nome": "Adequa\u00e7\u00e3o das Instala\u00e7\u00f5es do COMGEP",
+        "cep": null,
+        "endereco": null,
+        "descricao": "Contrata\u00e7\u00e3o de empresa de engenharia especializada para a execu\u00e7\u00e3o da Adequa\u00e7\u00e3o das Instala\u00e7\u00f5es do COMGEP, 1\u00b0 e 2\u00b0 andar do pr\u00e9dio anexo do Minist\u00e9rio da Aeron\u00e1utica ",
+        "funcaoSocial": "Necessidade de proporcionar condi\u00e7\u00f5es seguras de trabalho, aliada a possibilidade\nde promover maior satisfa\u00e7\u00e3o ao efetivo, proporcionando um ambiente confort\u00e1vel de trabalho, al\u00e9m de\npromover a padroniza\u00e7\u00e3o dos ambientes e ainda, ajustar os espa\u00e7os internos conforme sua finalidade e o\nquantitativo do efetivo existente.",
+        "metaGlobal": "Necessidade de proporcionar condi\u00e7\u00f5es seguras de trabalho, aliada a possibilidade\nde promover maior satisfa\u00e7\u00e3o ao efetivo, proporcionando um ambiente confort\u00e1vel de trabalho, al\u00e9m de\npromover a padroniza\u00e7\u00e3o dos ambientes e ainda, ajustar os espa\u00e7os internos conforme sua finalidade e o\nquantitativo do efetivo existente",
+        "dataInicialPrevista": "2024-09-02",
+        "dataFinalPrevista": "2025-11-03",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2024-08-14",
+        "especie": "Reforma",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Em execu\u00e7\u00e3o",
+        "descPlanoNacionalPoliticaVinculado": null,
+        "uf": "DF",
+        "qdtEmpregosGerados": null,
+        "descPopulacaoBeneficiada": null,
+        "populacaoBeneficiada": null,
+        "observacoesPertinentes": null,
+        "isModeladaPorBim": false,
+        "dataSituacao": "2024-09-09",
+        "tomadores": [],
+        "executores": [
+            {
+                "nome": "COMANDO DA AERON\u00c1UTICA",
+                "codigo": 48
+            }
+        ],
+        "repassadores": [],
+        "eixos": [
+            {
+                "id": 1,
+                "descricao": "Administrativo"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 3,
+                "descricao": "Trabalho e Emprego",
+                "idEixo": 1
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 59,
+                "descricao": "Obras em Im\u00f3veis de Uso P\u00fablico",
+                "idTipo": 3
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 3828996.98
+            }
+        ]
+    },
+    {
+        "idUnico": "74551.53-41",
+        "nome": "PAC 2 - Cobertura de Quadra Escolar 032",
+        "cep": null,
+        "endereco": null,
+        "descricao": "PAC 2 - Cobertura de Quadra Escolar 032 Constru\u00e7\u00e3o",
+        "funcaoSocial": "PAC 2 - Cobertura de Quadra Escolar 032",
+        "metaGlobal": "Cobertura de Quadra Escolar Pequena",
+        "dataInicialPrevista": "2013-12-06",
+        "dataFinalPrevista": "2014-11-01",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2025-07-25",
+        "especie": "Reforma",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Cadastrada",
+        "descPlanoNacionalPoliticaVinculado": "Obras 2",
+        "uf": "DF",
+        "qdtEmpregosGerados": " ",
+        "descPopulacaoBeneficiada": "Descri\u00e7\u00e3o popula\u00e7\u00e3o beneficiada",
+        "populacaoBeneficiada": " ",
+        "observacoesPertinentes": "Informa\u00e7\u00f5es Obras Fundo Nacional de Desenvolvimento da Educa\u00e7\u00e3o",
+        "isModeladaPorBim": false,
+        "dataSituacao": "2025-07-25",
+        "tomadores": [],
+        "executores": [
+            {
+                "nome": "FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O",
+                "codigo": 253
+            }
+        ],
+        "repassadores": [],
+        "eixos": [
+            {
+                "id": 3,
+                "descricao": "Econ\u00f4mico"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 22,
+                "descricao": "Infraestrutura H\u00eddrica, Portos, Hidrovia",
+                "idEixo": 3
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 36,
+                "descricao": "Dragagem, Derrocamento e Associa\u00e7\u00f5es",
+                "idTipo": 22
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 0.01
+            }
+        ]
+    },
+    {
+        "idUnico": "86990.53-95",
+        "nome": "CEPI - Rua 18, Lote 01, Vila Telebras\u00edlia - BRAS\u00cdLIA-DF - Distrito Federal - DF",
+        "cep": null,
+        "endereco": null,
+        "descricao": "CEPI - Rua 18, Lote 01, Vila Telebras\u00edlia - BRAS\u00cdLIA-DF - Distrito Federal - DF Tipo de Obra",
+        "funcaoSocial": "CEPI - Rua 18, Lote 01, Vila Telebras\u00edlia - BRAS\u00cdLIA-DF - Distrito Federal - DF",
+        "metaGlobal": "Creche Pr\u00e9-Escola - Tipo 1",
+        "dataInicialPrevista": "2021-12-14",
+        "dataFinalPrevista": "2025-01-27",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2025-07-28",
+        "especie": "Reforma",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Cadastrada",
+        "descPlanoNacionalPoliticaVinculado": "Obras 2",
+        "uf": "DF",
+        "qdtEmpregosGerados": " ",
+        "descPopulacaoBeneficiada": "Descri\u00e7\u00e3o popula\u00e7\u00e3o beneficiada",
+        "populacaoBeneficiada": " ",
+        "observacoesPertinentes": "Informa\u00e7\u00f5es Obras Fundo Nacional de Desenvolvimento da Educa\u00e7\u00e3o",
+        "isModeladaPorBim": false,
+        "dataSituacao": "2025-07-28",
+        "tomadores": [],
+        "executores": [
+            {
+                "nome": "FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O",
+                "codigo": 253
+            }
+        ],
+        "repassadores": [],
+        "eixos": [
+            {
+                "id": 3,
+                "descricao": "Econ\u00f4mico"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 22,
+                "descricao": "Infraestrutura H\u00eddrica, Portos, Hidrovia",
+                "idEixo": 3
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 36,
+                "descricao": "Dragagem, Derrocamento e Associa\u00e7\u00f5es",
+                "idTipo": 22
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 0.01
+            }
+        ]
+    },
+    {
+        "idUnico": "51457.53-74",
+        "nome": "Amplia\u00e7\u00e3o pra\u00e7a da IMBEL",
+        "cep": null,
+        "endereco": "Quartel General do Ex\u00e9rcito, Bloco H, entre os Blocos G e H",
+        "descricao": "Presta\u00e7\u00e3o de servi\u00e7os comum de engenharia para a execu\u00e7\u00e3o de reforma e amplia\u00e7\u00e3o da pra\u00e7a de conviv\u00eancia no espa\u00e7o localizado entre o bloco \u201cG\u201d e \u201cH\u201d, em complemento a a instala\u00e7\u00e3o existente com amplia\u00e7\u00e3o de cal\u00e7adas, coloca\u00e7\u00e3o de bancos e constru\u00e7\u00e3o de cobertura na passagem que liga o Bloco H a pra\u00e7a Duque de Caxias no QGEX, com fornecimento de equipamentos, materiais e m\u00e3o-de-obra,",
+        "funcaoSocial": "Integra\u00e7\u00e3o dos empregados da IMBEL/Sede e integrantes do Quartel General do Ex\u00e9rcito. Espa\u00e7o de conviv\u00eancia.",
+        "metaGlobal": "A contrata\u00e7\u00e3o tem por finalidade a melhoria do ambiente de trabalho, proporcionando aos empregados da IMBEL um local adequado para o hor\u00e1rio de descanso. A IMBEL vem adotando medidas voltadas para a \u00e1rea social buscando uma melhora na qualidade de vida e bem-estar dos seus empregados, atrav\u00e9s de servi\u00e7os e espa\u00e7os humanizados buscando uma melhor intera\u00e7\u00e3o e conviv\u00eancia social. Est\u00e3o sendo implementadas na IMBEL, atividades que buscam alcan\u00e7ar esses objetivos, com a implementa\u00e7\u00e3o atividades voltadas ao bem estar dos empregados, tais como: gin\u00e1stica laboral, assist\u00eancia social, procedimentos que buscam a preven\u00e7\u00e3o de acidentes de trabalho, combate \u00e0s doen\u00e7as ocupacionais, tais como a ansiedade e o estresse, e com isso se busca o aumento das capacidades funcionais dos colaboradores.",
+        "dataInicialPrevista": "2025-01-06",
+        "dataFinalPrevista": "2025-03-06",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2025-02-03",
+        "especie": "Amplia\u00e7\u00e3o",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Conclu\u00edda",
+        "descPlanoNacionalPoliticaVinculado": null,
+        "uf": "DF",
+        "qdtEmpregosGerados": null,
+        "descPopulacaoBeneficiada": null,
+        "populacaoBeneficiada": null,
+        "observacoesPertinentes": null,
+        "isModeladaPorBim": false,
+        "dataSituacao": "2025-03-06",
+        "tomadores": [
+            {
+                "nome": "INDUSTRIA DE MATERIAL BELICO DO BRASIL",
+                "codigo": 52221
+            }
+        ],
+        "executores": [
+            {
+                "nome": "INDUSTRIA DE MATERIAL BELICO DO BRASIL",
+                "codigo": 52221
+            }
+        ],
+        "repassadores": [
+            {
+                "nome": "CAMARA DOS DEPUTADOS",
+                "codigo": 1000
+            }
+        ],
+        "eixos": [
+            {
+                "id": 1,
+                "descricao": "Administrativo"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 3,
+                "descricao": "Trabalho e Emprego",
+                "idEixo": 1
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 59,
+                "descricao": "Obras em Im\u00f3veis de Uso P\u00fablico",
+                "idTipo": 3
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 200000.0
+            }
+        ]
+    },
+    {
+        "idUnico": "1378.53-71",
+        "nome": "00 00377/2020",
+        "cep": "70040-902",
+        "endereco": " BR-010",
+        "descricao": "contrata\u00c3\u00a7\u00c3\u00a3o de empresa especializada para presta\u00c3\u00a7\u00c3\u00a3o dos servi\u00c3\u00a7os de gerenciamento dos empreendimentos de constru\u00c3\u00a7\u00c3\u00a3o, sob a jurisdi\u00c3\u00a7\u00c3\u00a3o do dnit, para toda a malha rodovi\u00c3\u00a1ria federal da regi\u00c3\u00a3o nordeste.",
+        "funcaoSocial": "Preservar vidas e promover o desenvolvimento sustent\u00c3\u00a1vel do pa\u00c3\u00ads priorizando a seguran\u00c3\u00a7a, as boas condi\u00c3\u00a7\u00c3\u00b5es de trafegabilidade e a otimiza\u00c3\u00a7\u00c3\u00a3o da log\u00c3\u00adstica dos transportes, elevando assim o n\u00c3\u00advel de servi\u00c3\u00a7o das vias.",
+        "metaGlobal": "Supervis\u00e3o de 0 km.",
+        "dataInicialPrevista": "2020-06-25",
+        "dataFinalPrevista": "2024-09-16",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2021-04-26",
+        "especie": "Constru\u00e7\u00e3o",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Paralisada",
+        "descPlanoNacionalPoliticaVinculado": null,
+        "uf": "DF",
+        "qdtEmpregosGerados": null,
+        "descPopulacaoBeneficiada": null,
+        "populacaoBeneficiada": null,
+        "observacoesPertinentes": null,
+        "isModeladaPorBim": null,
+        "dataSituacao": "2025-08-05",
+        "tomadores": [
+            {
+                "nome": "DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES",
+                "codigo": 54844
+            }
+        ],
+        "executores": [
+            {
+                "nome": "DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES",
+                "codigo": 54844
+            }
+        ],
+        "repassadores": [],
+        "eixos": [
+            {
+                "id": 3,
+                "descricao": "Econ\u00f4mico"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 25,
+                "descricao": "Rodovia",
+                "idEixo": 3
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 4,
+                "descricao": "Acessos Terrestres",
+                "idTipo": 25
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 32237524.39
+            }
+        ]
+    },
+    {
+        "idUnico": "74767.53-83",
+        "nome": "701593/11 - Escola Profissionalizante - Unidade de EMI/EPT - Parano\u00e1/DF",
+        "cep": null,
+        "endereco": null,
+        "descricao": "701593/11 - Escola Profissionalizante - Unidade de EMI/EPT - Parano\u00e1/DF Tipo de Obra",
+        "funcaoSocial": "701593/11 - Escola Profissionalizante - Unidade de EMI/EPT - Parano\u00e1/DF",
+        "metaGlobal": "Escola de Ensino M\u00e9dio Profissionalizante",
+        "dataInicialPrevista": "2021-03-12",
+        "dataFinalPrevista": "2025-02-19",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2025-07-25",
+        "especie": "Reforma",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Cadastrada",
+        "descPlanoNacionalPoliticaVinculado": "Obras 2",
+        "uf": "DF",
+        "qdtEmpregosGerados": " ",
+        "descPopulacaoBeneficiada": "Descri\u00e7\u00e3o popula\u00e7\u00e3o beneficiada",
+        "populacaoBeneficiada": " ",
+        "observacoesPertinentes": "Informa\u00e7\u00f5es Obras Fundo Nacional de Desenvolvimento da Educa\u00e7\u00e3o",
+        "isModeladaPorBim": false,
+        "dataSituacao": "2025-07-25",
+        "tomadores": [],
+        "executores": [
+            {
+                "nome": "FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O",
+                "codigo": 253
+            }
+        ],
+        "repassadores": [],
+        "eixos": [
+            {
+                "id": 3,
+                "descricao": "Econ\u00f4mico"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 22,
+                "descricao": "Infraestrutura H\u00eddrica, Portos, Hidrovia",
+                "idEixo": 3
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 36,
+                "descricao": "Dragagem, Derrocamento e Associa\u00e7\u00f5es",
+                "idTipo": 22
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 299999.37
+            }
+        ]
+    },
+    {
+        "idUnico": "74768.53-30",
+        "nome": "701593/11 - Escola Profissionalizante - Unidade de EMI/EPT - Brazl\u00e2ndia/DF",
+        "cep": null,
+        "endereco": null,
+        "descricao": "701593/11 - Escola Profissionalizante - Unidade de EMI/EPT - Brazl\u00e2ndia/DF Constru\u00e7\u00e3o",
+        "funcaoSocial": "701593/11 - Escola Profissionalizante - Unidade de EMI/EPT - Brazl\u00e2ndia/DF",
+        "metaGlobal": "Escola de Ensino M\u00e9dio Profissionalizante",
+        "dataInicialPrevista": "2018-07-11",
+        "dataFinalPrevista": "2020-10-28",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2025-07-25",
+        "especie": "Reforma",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Cadastrada",
+        "descPlanoNacionalPoliticaVinculado": "Obras 2",
+        "uf": "DF",
+        "qdtEmpregosGerados": " ",
+        "descPopulacaoBeneficiada": "Descri\u00e7\u00e3o popula\u00e7\u00e3o beneficiada",
+        "populacaoBeneficiada": " ",
+        "observacoesPertinentes": "Informa\u00e7\u00f5es Obras Fundo Nacional de Desenvolvimento da Educa\u00e7\u00e3o",
+        "isModeladaPorBim": false,
+        "dataSituacao": "2025-07-25",
+        "tomadores": [],
+        "executores": [
+            {
+                "nome": "FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O",
+                "codigo": 253
+            }
+        ],
+        "repassadores": [],
+        "eixos": [
+            {
+                "id": 3,
+                "descricao": "Econ\u00f4mico"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 22,
+                "descricao": "Infraestrutura H\u00eddrica, Portos, Hidrovia",
+                "idEixo": 3
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 36,
+                "descricao": "Dragagem, Derrocamento e Associa\u00e7\u00f5es",
+                "idTipo": 22
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 0.01
+            }
+        ]
+    },
+    {
+        "idUnico": "26975.53-92",
+        "nome": "Restaura\u00e7\u00e3o do pavimento asf\u00e1ltico da DF-051 (EPGU)",
+        "cep": null,
+        "endereco": null,
+        "descricao": "Restaura\u00e7\u00e3o do pavimento asf\u00e1ltico da DF-051 (EPGU), trecho compreendido entre o entroncamento da rodovia DF-047 (EPAR) e o Bal\u00e3o (rotat\u00f3ria) do Guar\u00e1 II, em ambos os sentidos",
+        "funcaoSocial": "Popula\u00e7\u00e3o das regi\u00f5es administrativas do Distrito Federal de Bras\u00edlia, Guar\u00e1, Candangol\u00e2ndia e N\u00facleo Bandeirante. Pavimento est\u00e1 bastante deteriorado em fun\u00e7\u00e3o do grande fluxo de ve\u00edculos de transporte coletivo e comerciais de carga.. Diminui\u00e7\u00e3o da quebra de ve\u00edculos causada pela deteriora\u00e7\u00e3o do pavimento, melhora da fluidez do tr\u00e1fego local, bem como aumento da seguran\u00e7a vi\u00e1ria.",
+        "metaGlobal": "Restaura\u00e7\u00e3o do pavimento asf\u00e1ltico da DF-051 (EPGU), trecho compreendido entre o entroncamento da rodovia DF-047 (EPAR) e o Bal\u00e3o (rotat\u00f3ria) do Guar\u00e1 II, em ambos os sentidos",
+        "dataInicialPrevista": "2023-10-31",
+        "dataFinalPrevista": "2027-10-30",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2023-10-31",
+        "especie": "Recupera\u00e7\u00e3o",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Cadastrada",
+        "descPlanoNacionalPoliticaVinculado": null,
+        "uf": "DF",
+        "qdtEmpregosGerados": "60",
+        "descPopulacaoBeneficiada": "Moradores do Guar\u00e1, Plano Piloto e usu\u00e1rios da vias.",
+        "populacaoBeneficiada": "125703",
+        "observacoesPertinentes": null,
+        "isModeladaPorBim": false,
+        "dataSituacao": "2023-10-31",
+        "tomadores": [],
+        "executores": [
+            {
+                "nome": "DEPARTAMENTO DE ESTRADAS DE RODAGEM DO DISTRITO FEDERAL",
+                "codigo": 70532000103
+            }
+        ],
+        "repassadores": [
+            {
+                "nome": "MINIST\u00c9RIO DAS CIDADES",
+                "codigo": 308798
+            }
+        ],
+        "eixos": [
+            {
+                "id": 3,
+                "descricao": "Econ\u00f4mico"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 24,
+                "descricao": "Infraestrutura Urbana e Mobilidade",
+                "idEixo": 3
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 58,
+                "descricao": "Pavimenta\u00e7\u00e3o",
+                "idTipo": 24
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 15000000.0
+            }
+        ]
+    },
+    {
+        "idUnico": "22150.53-84",
+        "nome": "Caminho das escolas ",
+        "cep": null,
+        "endereco": null,
+        "descricao": "Restaura\u00e7\u00e3o de Rodovia: DF-001 Pist\u00e3o Sul - Subtrecho: BR-060 \u2013 DF-065 (Estacas 55+6 a 324 do Subtrecho 240 do BRT Sudoeste)\nExtens\u00e3o: 10,75 km",
+        "funcaoSocial": "Moradores das Cidades de Taguatinga, Recanto das Emas, Riacho Fundo I e II, Samambaia, \u00c1guas Claras, bem como de toda a Regi\u00e3o Leste do Distrito Federal.. T\u00e9rmino do estrangulamento do tr\u00e2nsito e pontos de acidentes, com diminui\u00e7\u00e3o significativa do tempo de viagem, impactando positivamente no n\u00edvel de servi\u00e7o e consequentemente na qualidade de vida dos usu\u00e1rios da rodovia.. T\u00e9rmino do estrangulamento do tr\u00e2nsito e pontos de acidentes, com diminui\u00e7\u00e3o significativa do tempo de viagem, impactando positivamente no n\u00edvel de servi\u00e7o e consequentemente na qualidade de vida dos usu\u00e1rios da rodovia.",
+        "metaGlobal": "Restaura\u00e7\u00e3o de Rodovia: DF-001 Pist\u00e3o Sul - Subtrecho: BR-060 \u2013 DF-065 (Estacas 55+6 a 324 do Subtrecho 240 do BRT Sudoeste)\nExtens\u00e3o: 10,75 km",
+        "dataInicialPrevista": "2023-08-18",
+        "dataFinalPrevista": "2028-08-18",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2023-05-22",
+        "especie": "Constru\u00e7\u00e3o",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Cancelada",
+        "descPlanoNacionalPoliticaVinculado": null,
+        "uf": "DF",
+        "qdtEmpregosGerados": null,
+        "descPopulacaoBeneficiada": null,
+        "populacaoBeneficiada": null,
+        "observacoesPertinentes": null,
+        "isModeladaPorBim": false,
+        "dataSituacao": "2023-09-29",
+        "tomadores": [],
+        "executores": [
+            {
+                "nome": "DEPARTAMENTO DE ESTRADAS DE RODAGEM DO DISTRITO FEDERAL",
+                "codigo": 70532000103
+            }
+        ],
+        "repassadores": [
+            {
+                "nome": "MINIST\u00c9RIO DAS CIDADES",
+                "codigo": 308798
+            }
+        ],
+        "eixos": [
+            {
+                "id": 3,
+                "descricao": "Econ\u00f4mico"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 25,
+                "descricao": "Rodovia",
+                "idEixo": 3
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 58,
+                "descricao": "Pavimenta\u00e7\u00e3o",
+                "idTipo": 24
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 34190786.0
+            }
+        ]
+    },
+    {
+        "idUnico": "21906.53-92",
+        "nome": "Constru\u00e7\u00e3o de Ponte no C\u00f3rrego Pontinha - DF-295",
+        "cep": null,
+        "endereco": null,
+        "descricao": "Constru\u00e7\u00e3o de ponte no C\u00f3rrego Pontinha na DF-295",
+        "funcaoSocial": "Produtores localizados pr\u00f3ximos \u00e0s rodovias (distritais, estradas vicinais e vias locais) beneficiadas na regi\u00e3o da DF-295.. Eliminar risco de acidentes em \u00e9pocas de chuva por causa de atoleiros, \u00e1gua empossada com a pavimenta\u00e7\u00e3o de acessos \u00e0s escolas rurais (rodovias distritais, estradas vicinais e vias locais). Melhoria do fluxo de ve\u00edculos e elimina\u00e7\u00e3o do risco de acidentes.",
+        "metaGlobal": "Constru\u00e7\u00e3o de ponte no C\u00f3rrego Pontinha na DF-295",
+        "dataInicialPrevista": "2023-07-31",
+        "dataFinalPrevista": "2026-07-31",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2023-05-12",
+        "especie": "Constru\u00e7\u00e3o",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Cadastrada",
+        "descPlanoNacionalPoliticaVinculado": null,
+        "uf": "DF",
+        "qdtEmpregosGerados": "25",
+        "descPopulacaoBeneficiada": "Morados e produtores rurais do Parano\u00e1. Cerca de 69.858  habitantes conforme PDAD.",
+        "populacaoBeneficiada": "69858",
+        "observacoesPertinentes": null,
+        "isModeladaPorBim": false,
+        "dataSituacao": "2023-05-12",
+        "tomadores": [],
+        "executores": [
+            {
+                "nome": "DEPARTAMENTO DE ESTRADAS DE RODAGEM DO DISTRITO FEDERAL",
+                "codigo": 70532000103
+            }
+        ],
+        "repassadores": [
+            {
+                "nome": "MINIST\u00c9RIO DA INTEGRA\u00c7\u00c3O E DO DESENVOLVIMENTO REGIONAL",
+                "codigo": 308799
+            }
+        ],
+        "eixos": [
+            {
+                "id": 3,
+                "descricao": "Econ\u00f4mico"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 25,
+                "descricao": "Rodovia",
+                "idEixo": 3
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 57,
+                "descricao": "Obra de Arte Especial",
+                "idTipo": 25
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 1153859.85
+            }
+        ]
+    },
+    {
+        "idUnico": "17988.53-08",
+        "nome": "Obras de Implanta\u00e7\u00e3o de viadutos nas rodovias DF-079 (EPVP) e DF-075 (EPNB)",
+        "cep": null,
+        "endereco": null,
+        "descricao": "Obras de Implanta\u00e7\u00e3o de viadutos nas rodovias DF-079 (EPVP) e DF-075 (EPNB)",
+        "funcaoSocial": "Popula\u00e7\u00e3o local das seguintes regi\u00f5es administrativas do Distrito Federal: \u00c1guas Claras, Vicente pires, Taguatinga, Samambaia, Recanto das Emas.. Interse\u00e7\u00f5es (cruzamentos) s\u00e3o pontos de conflito onde o fluxo principal de ve\u00edculos sofre interfer\u00eancia de outros fluxos durante manobras de convers\u00e3o, cruzamentos e diverg\u00eancias ocasionando lentid\u00e3o no tr\u00e1fego vi\u00e1rio e aumento da periculosidade do tr\u00e2nsito.. Aumento da capacidade vi\u00e1ria por meio dos viadutos e consequentemente a moderniza\u00e7\u00e3o das condi\u00e7\u00f5es de seguran\u00e7a e fluidez do tr\u00e2nsito local, guardando-se a observ\u00e2ncia aos preceitos do desenvolvimento sustent\u00e1vel, aos crit\u00e9rios ambientais necess\u00e1rios e \u00e0s disposi\u00e7\u00f5es t\u00e9cnicas cab\u00edveis ao caso.",
+        "metaGlobal": "Obras de Implanta\u00e7\u00e3o de viadutos nas rodovias DF-079 (EPVP) e DF-075 (EPNB)",
+        "dataInicialPrevista": "2022-12-31",
+        "dataFinalPrevista": "2025-12-31",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2022-12-30",
+        "especie": "Constru\u00e7\u00e3o",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Cadastrada",
+        "descPlanoNacionalPoliticaVinculado": null,
+        "uf": "DF",
+        "qdtEmpregosGerados": null,
+        "descPopulacaoBeneficiada": null,
+        "populacaoBeneficiada": null,
+        "observacoesPertinentes": null,
+        "isModeladaPorBim": false,
+        "dataSituacao": "2022-12-30",
+        "tomadores": [],
+        "executores": [
+            {
+                "nome": "DEPARTAMENTO DE ESTRADAS DE RODAGEM DO DISTRITO FEDERAL",
+                "codigo": 70532000103
+            }
+        ],
+        "repassadores": [
+            {
+                "nome": "SUPERINT. DE DESENVOLVIMENTO DO CENTRO-OESTE",
+                "codigo": 53207
+            }
+        ],
+        "eixos": [
+            {
+                "id": 3,
+                "descricao": "Econ\u00f4mico"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 24,
+                "descricao": "Infraestrutura Urbana e Mobilidade",
+                "idEixo": 3
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 57,
+                "descricao": "Obra de Arte Especial",
+                "idTipo": 25
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 19878527.58
+            }
+        ]
+    },
+    {
+        "idUnico": "9854.53-01",
+        "nome": "Passarela BR-020 - Nova Esperan\u00e7a",
+        "cep": null,
+        "endereco": null,
+        "descricao": "Constru\u00e7\u00e3o de passarela em estrutura mista , e urbaniza\u00e7\u00e3o de seu entorno, a ser implantada no Km 21,3 da rodovia BR-020.",
+        "funcaoSocial": "Pedestres, no geral, demanda das ocupa\u00e7\u00f5es lindeiras \u00e0 faixa de dom\u00ednio da rodovia BR-020, nas imedia\u00e7\u00f5es do quil\u00f4metro 21,3, formando um grupo heterog\u00eaneo no sistema vi\u00e1rio, dos quais, possuem idade e sexo distintos, al\u00e9m de englobarem pessoas com defici\u00eancia f\u00edsica e, em alguns casos, ciclistas... Os acidentes de tr\u00e2nsito s\u00e3o uma das principais causas de mortes no Brasil, sendo que o atropelamento \u00e9 considerado o mais grave. Por\u00e9m estes acidentes em rodovias localizadas em trechos urbanos t\u00eam aumentado. A implanta\u00e7\u00e3o da passarela, no ponto em quest\u00e3o da BR-020, possibilitar\u00e1 travessia segura, sobre a rodovia, em regi\u00e3o de acentuado adensamento urbano.. Equacionamento de acidentes por atropelamento, assim como promo\u00e7\u00e3o de local adequado para os usu\u00e1rios do sistema de transporte p\u00fablico.",
+        "metaGlobal": "Constru\u00e7\u00e3o de passarela em estrutura mista , e urbaniza\u00e7\u00e3o de seu entorno, a ser implantada no Km 21,3 da rodovia BR-020.",
+        "dataInicialPrevista": "2020-12-02",
+        "dataFinalPrevista": "2024-03-29",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2022-10-11",
+        "especie": "Constru\u00e7\u00e3o",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Conclu\u00edda",
+        "descPlanoNacionalPoliticaVinculado": null,
+        "uf": "DF",
+        "qdtEmpregosGerados": "50",
+        "descPopulacaoBeneficiada": "Pedestres que moram em Planaltina-DF.",
+        "populacaoBeneficiada": "180000",
+        "observacoesPertinentes": null,
+        "isModeladaPorBim": false,
+        "dataSituacao": "2024-04-03",
+        "tomadores": [],
+        "executores": [
+            {
+                "nome": "DEPARTAMENTO DE ESTRADAS DE RODAGEM DO DISTRITO FEDERAL",
+                "codigo": 70532000103
+            }
+        ],
+        "repassadores": [
+            {
+                "nome": "MINIST\u00c9RIO DAS CIDADES",
+                "codigo": 308798
+            }
+        ],
+        "eixos": [
+            {
+                "id": 3,
+                "descricao": "Econ\u00f4mico"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 24,
+                "descricao": "Infraestrutura Urbana e Mobilidade",
+                "idEixo": 3
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 57,
+                "descricao": "Obra de Arte Especial",
+                "idTipo": 25
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 3626101.19
+            }
+        ]
+    },
+    {
+        "idUnico": "9640.53-16",
+        "nome": "Viaduto da BR-020",
+        "cep": null,
+        "endereco": null,
+        "descricao": "Contrata\u00e7\u00e3o da Implanta\u00e7\u00e3o de Interse\u00e7\u00e3o no acesso II da Cidade de Sobradinho junto ao Setor Esportivo Conjunto D3 na BR-020. Os servi\u00e7os a serem executados s\u00e3o terraplenagem, pavimenta\u00e7\u00e3o, drenagem, sinaliza\u00e7\u00e3o horizontal e vertical, muro de Terra Armada, obra de arte especial, obras complementares e canteiro de obras.",
+        "funcaoSocial": "Usu\u00e1rios da rodovia BR-020 no trecho Bras\u00edlia/Planaltina, bem como se desloca pelo Distrito Federal no sentido Norte/Nordeste, bem como em especial os moradores e quem necessita adentrar \u00e0 cidade de Sobradinho, bem como usu\u00e1rios da rodovia BR-060 no trecho Bras\u00edlia/Goi\u00e2nia, bem como quem se desloca pelo Distrito Federal a outras cidades sat\u00e9lites, e em especial os moradores e quem necessita adentrar \u00e0 cidade do Riacho Fundo I e a ADE de \u00c1guas Claras.. A implanta\u00e7\u00e3o de interse\u00e7\u00e3o nos acesso nas localidades em quest\u00e3o possibilitar\u00e1 as devidas melhorias vi\u00e1rias locais para o aumento da capacidade vi\u00e1ria da interse\u00e7\u00e3o e, consequentemente, das condi\u00e7\u00f5es de seguran\u00e7a e fluidez do tr\u00e2nsito local.. Aumento da capacidade vi\u00e1ria da interse\u00e7\u00e3o e, consequentemente, das condi\u00e7\u00f5es de seguran\u00e7a e fluidez do tr\u00e2nsito local, guardando-se a observ\u00e2ncia aos preceitos do desenvolvimento sustent\u00e1vel, aos crit\u00e9rios ambientais necess\u00e1rios e \u00e0s disposi\u00e7\u00f5es t\u00e9cnicas cab\u00edveis ao caso.",
+        "metaGlobal": "Contrata\u00e7\u00e3o da Implanta\u00e7\u00e3o de Interse\u00e7\u00e3o no acesso II da Cidade de Sobradinho junto ao Setor Esportivo Conjunto D3 na BR-020. Os servi\u00e7os a serem executados s\u00e3o terraplenagem, pavimenta\u00e7\u00e3o, drenagem, sinaliza\u00e7\u00e3o horizontal e vertical, muro de Terra Armada, obra de arte especial, obras complementares e canteiro de obras.",
+        "dataInicialPrevista": "2020-12-02",
+        "dataFinalPrevista": "2025-12-02",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2022-10-07",
+        "especie": "Constru\u00e7\u00e3o",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Conclu\u00edda",
+        "descPlanoNacionalPoliticaVinculado": null,
+        "uf": "DF",
+        "qdtEmpregosGerados": "200",
+        "descPopulacaoBeneficiada": "Popula\u00e7\u00e3o de Sobradinho e Planaltina-DF, bem como demais usu\u00e1rios da via.",
+        "populacaoBeneficiada": "245000",
+        "observacoesPertinentes": null,
+        "isModeladaPorBim": false,
+        "dataSituacao": "2024-04-03",
+        "tomadores": [],
+        "executores": [
+            {
+                "nome": "DEPARTAMENTO DE ESTRADAS DE RODAGEM DO DISTRITO FEDERAL",
+                "codigo": 70532000103
+            }
+        ],
+        "repassadores": [
+            {
+                "nome": "MINIST\u00c9RIO DAS CIDADES",
+                "codigo": 308798
+            }
+        ],
+        "eixos": [
+            {
+                "id": 3,
+                "descricao": "Econ\u00f4mico"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 24,
+                "descricao": "Infraestrutura Urbana e Mobilidade",
+                "idEixo": 3
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 57,
+                "descricao": "Obra de Arte Especial",
+                "idTipo": 25
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 41501477.05
+            }
+        ]
+    },
+    {
+        "idUnico": "9618.53-00",
+        "nome": "Retaura\u00e7\u00e3o da DF-001- Tr. Pist\u00e3o Sul, Recanto das Emas",
+        "cep": null,
+        "endereco": null,
+        "descricao": "META 1 - Restaura\u00e7\u00e3o da Infraestrutura Vi\u00e1ria da Rodovia Distrital DF-001 (EPCT) \u2013 Pist\u00e3o Sul, incluindo as vias marginais existentes, no segmento compreendido entre o entroncamento com a DF-085 (EPTG) at\u00e9 DF-075 (EPNB).\nMETA 2 - Restaura\u00e7\u00e3o do trecho entre o Recanto das Emas e o Bal\u00e3o do Periquito, em pavimento r\u00edgido. Adequa\u00e7\u00e3o de retornos na Rodovia Distrital DF-001 (EPCT) \u2013 Recanto das Emas / Riacho Fundo II, no trecho compreendido entre a Av. Ponte Alta. at\u00e9 a Estaca de Projeto 55 + 6,000.",
+        "funcaoSocial": "META 1 - Moradores das Cidades de Taguatinga, Recanto das Emas, Riacho Fundo I e II, Samambaia, \u00c1guas Claras, bem como de toda a Regi\u00e3o Leste do Distrito Federal.\nMETA 2 - Moradores da R.A. Recando das Emas, da R.A. Riacho Fundo II, bem como de toda a Regi\u00e3o Sudoeste do Distrito Federal.. META 1 - Restaura\u00e7\u00e3o do pavimento que est\u00e1 bastante deteriorado em fun\u00e7\u00e3o do grande fluxo de ve\u00edculos de transporte coletivo e ve\u00edculos comerciais (carga).\nMETA 2 - Restaura\u00e7\u00e3o do pavimento que est\u00e1 totalmente degradado em fun\u00e7\u00e3o grande fluxo de transporte coletivo \u2013 modal \u00f4nibus e de cargas  caminh\u00f5es, e da grande concentra\u00e7\u00e3o de ve\u00edculos nos hor\u00e1rios de pico, principalmente nos per\u00edodos da manh\u00e3 e do final do dia, quando h\u00e1 intenso deslocamento no sentido Gama-Taguatinga e vice-versa.. META 1 - T\u00e9rmino do estrangulamento do tr\u00e2nsito e pontos de acidentes, com diminui\u00e7\u00e3o significativa do tempo de viagem, impactando positivamente no n\u00edvel de servi\u00e7o e consequentemente na qualidade de vida dos usu\u00e1rios da rodovia.\nMETA 2 - Fim dos congestionamentos de ve\u00edculos e reten\u00e7\u00f5es, em fun\u00e7\u00e3o do estado atual do pavimento, redu\u00e7\u00e3o do estrangulamento do tr\u00e2nsito e pontos de acidentes, com diminui\u00e7\u00e3o significativa do tempo de viagem.",
+        "metaGlobal": "META 1 - Restaura\u00e7\u00e3o da Infraestrutura Vi\u00e1ria da Rodovia Distrital DF-001 (EPCT) \u2013 Pist\u00e3o Sul, incluindo as vias marginais existentes, no segmento compreendido entre o entroncamento com a DF-085 (EPTG) at\u00e9 DF-075 (EPNB).\nMETA 2 - Restaura\u00e7\u00e3o do trecho entre o Recanto das Emas e o Bal\u00e3o do Periquito, em pavimento r\u00edgido. Adequa\u00e7\u00e3o de retornos na Rodovia Distrital DF-001 (EPCT) \u2013 Recanto das Emas / Riacho Fundo II, no trecho compreendido entre a Av. Ponte Alta. at\u00e9 a Estaca de Projeto 55 + 6,000.",
+        "dataInicialPrevista": "2020-12-30",
+        "dataFinalPrevista": "2025-12-30",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2022-10-07",
+        "especie": "Recupera\u00e7\u00e3o",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Conclu\u00edda",
+        "descPlanoNacionalPoliticaVinculado": null,
+        "uf": "DF",
+        "qdtEmpregosGerados": "240",
+        "descPopulacaoBeneficiada": "Moradores de Taguatinga, Recanto das Emas e usu\u00e1rios das vias. ",
+        "populacaoBeneficiada": "496000",
+        "observacoesPertinentes": null,
+        "isModeladaPorBim": false,
+        "dataSituacao": "2025-03-18",
+        "tomadores": [],
+        "executores": [
+            {
+                "nome": "DEPARTAMENTO DE ESTRADAS DE RODAGEM DO DISTRITO FEDERAL",
+                "codigo": 70532000103
+            }
+        ],
+        "repassadores": [
+            {
+                "nome": "MINIST\u00c9RIO DAS CIDADES",
+                "codigo": 308798
+            }
+        ],
+        "eixos": [
+            {
+                "id": 3,
+                "descricao": "Econ\u00f4mico"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 24,
+                "descricao": "Infraestrutura Urbana e Mobilidade",
+                "idEixo": 3
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 75,
+                "descricao": "Urbaniza\u00e7\u00e3o",
+                "idTipo": 24
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 56992802.08
+            }
+        ]
+    },
+    {
+        "idUnico": "74618.53-45",
+        "nome": "PAC 2 - Cobertura de Quadra Escolar 071",
+        "cep": null,
+        "endereco": null,
+        "descricao": "PAC 2 - Cobertura de Quadra Escolar 071 Tipo de Obra",
+        "funcaoSocial": "PAC 2 - Cobertura de Quadra Escolar 071",
+        "metaGlobal": "Cobertura de Quadra Escolar Pequena",
+        "dataInicialPrevista": "2013-12-06",
+        "dataFinalPrevista": "2014-11-01",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2025-07-25",
+        "especie": "Reforma",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Cadastrada",
+        "descPlanoNacionalPoliticaVinculado": "Obras 2",
+        "uf": "DF",
+        "qdtEmpregosGerados": " ",
+        "descPopulacaoBeneficiada": "Descri\u00e7\u00e3o popula\u00e7\u00e3o beneficiada",
+        "populacaoBeneficiada": " ",
+        "observacoesPertinentes": "Informa\u00e7\u00f5es Obras Fundo Nacional de Desenvolvimento da Educa\u00e7\u00e3o",
+        "isModeladaPorBim": false,
+        "dataSituacao": "2025-07-25",
+        "tomadores": [],
+        "executores": [
+            {
+                "nome": "FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O",
+                "codigo": 253
+            }
+        ],
+        "repassadores": [],
+        "eixos": [
+            {
+                "id": 3,
+                "descricao": "Econ\u00f4mico"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 22,
+                "descricao": "Infraestrutura H\u00eddrica, Portos, Hidrovia",
+                "idEixo": 3
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 36,
+                "descricao": "Dragagem, Derrocamento e Associa\u00e7\u00f5es",
+                "idTipo": 22
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 0.01
+            }
+        ]
+    },
+    {
+        "idUnico": "74621.53-28",
+        "nome": "PAC 2 - Cobertura de Quadra Escolar 040",
+        "cep": null,
+        "endereco": null,
+        "descricao": "PAC 2 - Cobertura de Quadra Escolar 040 Tipo de Obra",
+        "funcaoSocial": "PAC 2 - Cobertura de Quadra Escolar 040",
+        "metaGlobal": "Cobertura de Quadra Escolar Pequena",
+        "dataInicialPrevista": "2013-10-30",
+        "dataFinalPrevista": "2014-09-25",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2025-07-25",
+        "especie": "Reforma",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Cadastrada",
+        "descPlanoNacionalPoliticaVinculado": "Obras 2",
+        "uf": "DF",
+        "qdtEmpregosGerados": " ",
+        "descPopulacaoBeneficiada": "Descri\u00e7\u00e3o popula\u00e7\u00e3o beneficiada",
+        "populacaoBeneficiada": " ",
+        "observacoesPertinentes": "Informa\u00e7\u00f5es Obras Fundo Nacional de Desenvolvimento da Educa\u00e7\u00e3o",
+        "isModeladaPorBim": false,
+        "dataSituacao": "2025-07-25",
+        "tomadores": [],
+        "executores": [
+            {
+                "nome": "FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O",
+                "codigo": 253
+            }
+        ],
+        "repassadores": [],
+        "eixos": [
+            {
+                "id": 3,
+                "descricao": "Econ\u00f4mico"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 22,
+                "descricao": "Infraestrutura H\u00eddrica, Portos, Hidrovia",
+                "idEixo": 3
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 36,
+                "descricao": "Dragagem, Derrocamento e Associa\u00e7\u00f5es",
+                "idTipo": 22
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 0.01
+            }
+        ]
+    },
+    {
+        "idUnico": "74552.53-08",
+        "nome": "PAC 2 - Cobertura de Quadra Escolar 036",
+        "cep": null,
+        "endereco": null,
+        "descricao": "PAC 2 - Cobertura de Quadra Escolar 036 Tipo de Obra",
+        "funcaoSocial": "PAC 2 - Cobertura de Quadra Escolar 036",
+        "metaGlobal": "Cobertura de Quadra Escolar Pequena",
+        "dataInicialPrevista": "2013-12-06",
+        "dataFinalPrevista": "2014-11-01",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2025-07-25",
+        "especie": "Reforma",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Cadastrada",
+        "descPlanoNacionalPoliticaVinculado": "Obras 2",
+        "uf": "DF",
+        "qdtEmpregosGerados": " ",
+        "descPopulacaoBeneficiada": "Descri\u00e7\u00e3o popula\u00e7\u00e3o beneficiada",
+        "populacaoBeneficiada": " ",
+        "observacoesPertinentes": "Informa\u00e7\u00f5es Obras Fundo Nacional de Desenvolvimento da Educa\u00e7\u00e3o",
+        "isModeladaPorBim": false,
+        "dataSituacao": "2025-07-25",
+        "tomadores": [],
+        "executores": [
+            {
+                "nome": "FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O",
+                "codigo": 253
+            }
+        ],
+        "repassadores": [],
+        "eixos": [
+            {
+                "id": 3,
+                "descricao": "Econ\u00f4mico"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 22,
+                "descricao": "Infraestrutura H\u00eddrica, Portos, Hidrovia",
+                "idEixo": 3
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 36,
+                "descricao": "Dragagem, Derrocamento e Associa\u00e7\u00f5es",
+                "idTipo": 22
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 0.01
+            }
+        ]
+    },
+    {
+        "idUnico": "91397.53-15",
+        "nome": "Creche Centro de Educa\u00e7\u00e3o para Primeira Inf\u00e2ncia (CEPI) \u0096 Quadra QS II LT E, Riacho Fundo I, Bras\u00edlia- DF",
+        "cep": null,
+        "endereco": null,
+        "descricao": "Constru\u00e7\u00e3o da Creche Centro de Educa\u00e7\u00e3o para Primeira Inf\u00e2ncia (CEPI) -  Bras\u00edlia - DF \u2013 FNDE\u00a0\u2013\u00a0Creche\u00a0Tipo\u00a02",
+        "funcaoSocial": "A constru\u00e7\u00e3o da nova creche ir\u00e1 beneficiar 94 crian\u00e7as, de 0 a 3 anos, em turno integral. O terreno escolhido para creche est\u00e1 pr\u00f3ximo \u00e0 comunidade do Riacho Fundo I, Regi\u00e3o Administrava do Distrito Federal.. A regi\u00e3o de Riacho Fundo I enfrenta uma car\u00eancia de unidades educacionais, resultando em cerca de 123 crian\u00e7as sem acesso \u00e0 educa\u00e7\u00e3o. Essas constru\u00e7\u00f5es fazem parte do plano de a\u00e7\u00e3o oriundo de media\u00e7\u00e3o junto aos \u00f3rg\u00e3os de controle (TJDFT, MPDFT e DPDF).. Atendimento a meta estabelecida no Plano Nacional de Educa\u00e7\u00e3o \u2013 PNE: ampliar a oferta em creches de forma a atender, no m\u00ednimo, 50% (cinquenta por cento) das crian\u00e7as de at\u00e9 3 (tr\u00eas) anos, pelo Distrito Federal.",
+        "metaGlobal": "Constru\u00e7\u00e3o da Creche Centro de Educa\u00e7\u00e3o para Primeira Inf\u00e2ncia (CEPI) -  Bras\u00edlia - DF \u2013 FNDE\u00a0\u2013\u00a0Creche\u00a0Tipo\u00a02",
+        "dataInicialPrevista": "2025-10-01",
+        "dataFinalPrevista": "2028-10-01",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2025-08-19",
+        "especie": "Constru\u00e7\u00e3o",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Cadastrada",
+        "descPlanoNacionalPoliticaVinculado": null,
+        "uf": "DF",
+        "qdtEmpregosGerados": "50",
+        "descPopulacaoBeneficiada": "A popula\u00e7\u00e3o diretamente beneficiada pela Quadra QS II LT E, Riacho Fundo I.II/DF. s\u00e3o crian\u00e7as em idade escolar, que ter\u00e3o acesso a uma nova creche, propiciando aprendizado e desenvolvimento. Indiretamente, toda a comunidade se beneficia, com valoriza\u00e7\u00e3o da regi\u00e3o, atra\u00e7\u00e3o de novos moradores, gera\u00e7\u00e3o de empregos e desenvolvimento local.",
+        "populacaoBeneficiada": "255",
+        "observacoesPertinentes": null,
+        "isModeladaPorBim": false,
+        "dataSituacao": "2025-08-19",
+        "tomadores": [],
+        "executores": [
+            {
+                "nome": "SECRETARIA DE ESTADO DE EDUCACAO DO DISTRITO FEDERAL",
+                "codigo": 394676000107
+            }
+        ],
+        "repassadores": [
+            {
+                "nome": "FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O",
+                "codigo": 253
+            }
+        ],
+        "eixos": [
+            {
+                "id": 4,
+                "descricao": "Social"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 46,
+                "descricao": "Educa\u00e7\u00e3o",
+                "idEixo": 4
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 84,
+                "descricao": "Educa\u00e7\u00e3o",
+                "idTipo": 46
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 3590743.62
+            }
+        ]
+    },
+    {
+        "idUnico": "74620.53-71",
+        "nome": "PAC 2 - Cobertura de Quadra Escolar 033",
+        "cep": null,
+        "endereco": null,
+        "descricao": "PAC 2 - Cobertura de Quadra Escolar 033 Constru\u00e7\u00e3o",
+        "funcaoSocial": "PAC 2 - Cobertura de Quadra Escolar 033",
+        "metaGlobal": "Cobertura de Quadra Escolar Pequena",
+        "dataInicialPrevista": "2013-12-06",
+        "dataFinalPrevista": "2014-07-04",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2025-07-25",
+        "especie": "Reforma",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Cadastrada",
+        "descPlanoNacionalPoliticaVinculado": "Obras 2",
+        "uf": "DF",
+        "qdtEmpregosGerados": " ",
+        "descPopulacaoBeneficiada": "Descri\u00e7\u00e3o popula\u00e7\u00e3o beneficiada",
+        "populacaoBeneficiada": " ",
+        "observacoesPertinentes": "Informa\u00e7\u00f5es Obras Fundo Nacional de Desenvolvimento da Educa\u00e7\u00e3o",
+        "isModeladaPorBim": false,
+        "dataSituacao": "2025-07-25",
+        "tomadores": [],
+        "executores": [
+            {
+                "nome": "FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O",
+                "codigo": 253
+            }
+        ],
+        "repassadores": [],
+        "eixos": [
+            {
+                "id": 3,
+                "descricao": "Econ\u00f4mico"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 22,
+                "descricao": "Infraestrutura H\u00eddrica, Portos, Hidrovia",
+                "idEixo": 3
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 36,
+                "descricao": "Dragagem, Derrocamento e Associa\u00e7\u00f5es",
+                "idTipo": 22
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 0.01
+            }
+        ]
+    },
+    {
+        "idUnico": "33135.53-00",
+        "nome": "Restaura\u00e7\u00e3o pavimento DF-001 - 0,58 km",
+        "cep": null,
+        "endereco": null,
+        "descricao": "Restaura\u00e7\u00e3o e reconstru\u00e7\u00e3o de pavimento.",
+        "funcaoSocial": "Moradores das Cidades do Recanto das Emas e Riacho Fundo II.. Estrangulamento do tr\u00e2nsito e pontos de acidentes que impactam no n\u00edvel de servi\u00e7o e consequentemente na qualidade de vida dos usu\u00e1rios da rodovia.. Melhora da fluidez do tr\u00e1fego local, bem como aumento da seguran\u00e7a vi\u00e1ria.",
+        "metaGlobal": "Restaura\u00e7\u00e3o e reconstru\u00e7\u00e3o de pavimento.",
+        "dataInicialPrevista": "2023-12-31",
+        "dataFinalPrevista": "2027-12-31",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2024-01-05",
+        "especie": "Constru\u00e7\u00e3o",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Cadastrada",
+        "descPlanoNacionalPoliticaVinculado": null,
+        "uf": "DF",
+        "qdtEmpregosGerados": null,
+        "descPopulacaoBeneficiada": null,
+        "populacaoBeneficiada": null,
+        "observacoesPertinentes": null,
+        "isModeladaPorBim": false,
+        "dataSituacao": "2024-01-05",
+        "tomadores": [],
+        "executores": [
+            {
+                "nome": "DEPARTAMENTO DE ESTRADAS DE RODAGEM DO DISTRITO FEDERAL",
+                "codigo": 70532000103
+            }
+        ],
+        "repassadores": [
+            {
+                "nome": "MINIST\u00c9RIO DAS CIDADES",
+                "codigo": 308798
+            }
+        ],
+        "eixos": [
+            {
+                "id": 3,
+                "descricao": "Econ\u00f4mico"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 24,
+                "descricao": "Infraestrutura Urbana e Mobilidade",
+                "idEixo": 3
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 58,
+                "descricao": "Pavimenta\u00e7\u00e3o",
+                "idTipo": 24
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 3006000.0
+            }
+        ]
+    },
+    {
+        "idUnico": "95932.53-25",
+        "nome": "obra de constru\u00e7\u00e3o da cobertura da quadra de esportes do mesp",
+        "cep": null,
+        "endereco": null,
+        "descricao": "obra de constru\u00e7\u00e3o da cobertura da quadra de esportes do mesp",
+        "funcaoSocial": "A quadra a ser constru\u00edda decorre da adequa\u00e7\u00e3o da quadra existente tendo em vista que a falta de cobertura diminuem a frequ\u00eancia do uso e de restri\u00e7\u00e3o\nde determinadas pr\u00e1ticas esportivas, conforme a instru\u00e7\u00e3o processual constante no processo SEI 23106.087210/2023-16.\nJustifica-se:\nPara atender \u00e0 demanda da comunidade universit\u00e1ria por atividades que promovam a qualidade de vida e a pr\u00e1tica de atividades f\u00edsicas. \u00c9 sabido que os\nexerc\u00edcios f\u00edsicos possuem benef\u00edcios comprovados para a melhoria da sa\u00fade corporal e mental dos indiv\u00edduos. Atualmente, o assunto tem ganhado\nnotoriedade no \u00e2mbito da UnB, buscando-se o fomento de diversas a\u00e7\u00f5es de aten\u00e7\u00e3o \u00e0 sa\u00fade dessa comunidade, principalmente de car\u00e1ter preventivo.\nPor sua vez, a instala\u00e7\u00e3o de Pontos de Encontro Comunit\u00e1rio permite o acesso a equipamentos de alongamento e muscula\u00e7\u00e3o sem custos para os\nusu\u00e1rios, de modo democr\u00e1tico.\nA instala\u00e7\u00e3o de cobertura das quadras poliesportivas possibilita aos estudantes da Faculdade de Planaltina a pr\u00e1tica dos ensinamentos de sala de aula e o\ndesenvolvimento de pesquisas com equipamentos de f\u00e1cil acesso a popula\u00e7\u00e3o, integrando o conhecimento.\nA instala\u00e7\u00e3o de quadra coberta amplia o hor\u00e1rio das aulas, possibilita abrigo em caso de chuva e potencializa o uso em momentos de lazer por\nestudantes, servidores e p\u00fablico externo.",
+        "metaGlobal": "A quadra a ser constru\u00edda decorre da adequa\u00e7\u00e3o da quadra existente tendo em vista que a falta de cobertura diminuem a frequ\u00eancia do uso e de restri\u00e7\u00e3o\nde determinadas pr\u00e1ticas esportivas, conforme a instru\u00e7\u00e3o processual constante no processo SEI 23106.087210/2023-16.\nJustifica-se:\nPara atender \u00e0 demanda da comunidade universit\u00e1ria por atividades que promovam a qualidade de vida e a pr\u00e1tica de atividades f\u00edsicas. \u00c9 sabido que os\nexerc\u00edcios f\u00edsicos possuem benef\u00edcios comprovados para a melhoria da sa\u00fade corporal e mental dos indiv\u00edduos. Atualmente, o assunto tem ganhado\nnotoriedade no \u00e2mbito da UnB, buscando-se o fomento de diversas a\u00e7\u00f5es de aten\u00e7\u00e3o \u00e0 sa\u00fade dessa comunidade, principalmente de car\u00e1ter preventivo.\nPor sua vez, a instala\u00e7\u00e3o de Pontos de Encontro Comunit\u00e1rio permite o acesso a equipamentos de alongamento e muscula\u00e7\u00e3o sem custos para os\nusu\u00e1rios, de modo democr\u00e1tico.\nA instala\u00e7\u00e3o de cobertura das quadras poliesportivas possibilita aos estudantes da Faculdade de Planaltina a pr\u00e1tica dos ensinamentos de sala de aula e o\ndesenvolvimento de pesquisas com equipamentos de f\u00e1cil acesso a popula\u00e7\u00e3o, integrando o conhecimento.\nA instala\u00e7\u00e3o de quadra coberta amplia o hor\u00e1rio das aulas, possibilita abrigo em caso de chuva e potencializa o uso em momentos de lazer por\nestudantes, servidores e p\u00fablico externo.",
+        "dataInicialPrevista": "2025-12-25",
+        "dataFinalPrevista": "2026-12-24",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2025-09-23",
+        "especie": "Reforma",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Cadastrada",
+        "descPlanoNacionalPoliticaVinculado": null,
+        "uf": "DF",
+        "qdtEmpregosGerados": null,
+        "descPopulacaoBeneficiada": null,
+        "populacaoBeneficiada": null,
+        "observacoesPertinentes": null,
+        "isModeladaPorBim": false,
+        "dataSituacao": "2025-09-23",
+        "tomadores": [],
+        "executores": [
+            {
+                "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+                "codigo": 26271
+            }
+        ],
+        "repassadores": [
+            {
+                "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+                "codigo": 26271
+            }
+        ],
+        "eixos": [
+            {
+                "id": 1,
+                "descricao": "Administrativo"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 8,
+                "descricao": "Educa\u00e7\u00e3o",
+                "idEixo": 1
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 59,
+                "descricao": "Obras em Im\u00f3veis de Uso P\u00fablico",
+                "idTipo": 3
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 2148593.4
+            }
+        ]
+    },
+    {
+        "idUnico": "95933.53-81",
+        "nome": "OBRA DE CONSTRU\u00c7\u00c3O DA COBERTURA DA QUADRA DE ESPORTES DO MESP DA FACULDADE DE CI\u00caNCIA E TECNOLOGIAS EM ENGENHARIAS - FCTE, localizado no Campus Universit\u00e1rio do Gama",
+        "cep": null,
+        "endereco": null,
+        "descricao": "OBRA DE CONSTRU\u00c7\u00c3O DA COBERTURA DA QUADRA DE ESPORTES DO MESP DA FACULDADE DE CI\u00caNCIA E TECNOLOGIAS EM ENGENHARIAS - FCTE, localizado no Campus Universit\u00e1rio do Gama",
+        "funcaoSocial": "A quadra a ser constru\u00edda decorre da adequa\u00e7\u00e3o da quadra existente tendo em vista que a falta de cobertura e de vesti\u00e1rios diminuem a frequ\u00eancia do uso e de restri\u00e7\u00e3o de determinadas pr\u00e1ticas esportivas, conforme a instru\u00e7\u00e3o processual constante no processo SEI 23106.087210/2023-16.\n\nJustifica-se:\n\nPara atender \u00e0 demanda da comunidade universit\u00e1ria por atividades que promovam a qualidade de vida r a pr\u00e1tica de atividades f\u00edsicas. \u00c9 sabido que os exerc\u00edcios f\u00edsicos possuem benef\u00edcios comprovados para a melhoria da sa\u00fade corporal e mental dos indiv\u00edduos. Atualmente, o assunto tem ganhado notoriedade no \u00e2mbito da UnB, buscando-se o fomento de diversas a\u00e7\u00f5es de aten\u00e7\u00e3o \u00e0 sa\u00fade dessa comunidade, principalmente de car\u00e1ter preventivo. Por sua vez, a instala\u00e7\u00e3o de Pontos de Encontro Comunit\u00e1rio permite o acesso a equipamentos de alongamento e muscula\u00e7\u00e3o sem custos para os usu\u00e1rios, de modo democr\u00e1tico.\n\nA instala\u00e7\u00e3o de cobertura das quadras poliesportivas possibilita aos estudantes da Faculdade de Planaltina a pr\u00e1tica dos ensinamentos de sala de aula e o desenvolvimento de pesquisas com equipamentos de f\u00e1cil acesso a popula\u00e7\u00e3o, integrando o conhecimento.\n\nA instala\u00e7\u00e3o de quadra coberta amplia o hor\u00e1rio das aulas, possibilita abrigo em caso de chuva e potencializa o uso em momentos de lazer por estudantes, servidores e p\u00fablico externo.",
+        "metaGlobal": "Com vistas \u00e0 contrata\u00e7\u00e3o, a empresa vencedora do certame dever\u00e1 comprovar sua capacidade t\u00e9cnico-profissional na execu\u00e7\u00e3o de obra com caracter\u00edsticas semelhantes, mediante a apresenta\u00e7\u00e3o dos documentos elencados no edital da licita\u00e7\u00e3o. Dever\u00e1 ter \u00e0 frente dos servi\u00e7os respons\u00e1vel t\u00e9cnico devidamente habilitado, que dever\u00e1 permanecer no servi\u00e7o durante todas as horas de trabalho, e pessoal especializado de comprovada compet\u00eancia. Caber\u00e1 \u00e0 Contratada a responsabilidade pelo cumprimento das prescri\u00e7\u00f5es referentes \u00e0s leis trabalhistas, de previd\u00eancia social e de seguran\u00e7a contra acidentes de trabalho.\n\nOs servi\u00e7os dever\u00e3o obedecer rigorosamente \u00e0s instru\u00e7\u00f5es contidas nos projetos e seus documentos fornecidos, bem como as contidas nas disposi\u00e7\u00f5es cab\u00edveis do Decreto N \u00ba 92.100 de 10.12.85 e as normas t\u00e9cnicas da ABNT. Assim, compete \u00e0 empreiteira fazer minucioso estudo, verifica\u00e7\u00e3o e compara\u00e7\u00e3o de todos os desenhos dos projetos arquitet\u00f4nico, estrutural, de instala\u00e7\u00f5es, das especifica\u00e7\u00f5es e demais documentos integrantes da documenta\u00e7\u00e3o t\u00e9cnica fornecida pelo propriet\u00e1rio para execu\u00e7\u00e3o da obra.",
+        "dataInicialPrevista": "2025-12-24",
+        "dataFinalPrevista": "2026-12-24",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2025-09-23",
+        "especie": "Reforma",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Cadastrada",
+        "descPlanoNacionalPoliticaVinculado": null,
+        "uf": "DF",
+        "qdtEmpregosGerados": null,
+        "descPopulacaoBeneficiada": null,
+        "populacaoBeneficiada": null,
+        "observacoesPertinentes": null,
+        "isModeladaPorBim": false,
+        "dataSituacao": "2025-09-23",
+        "tomadores": [],
+        "executores": [
+            {
+                "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+                "codigo": 26271
+            }
+        ],
+        "repassadores": [
+            {
+                "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+                "codigo": 26271
+            }
+        ],
+        "eixos": [
+            {
+                "id": 1,
+                "descricao": "Administrativo"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 8,
+                "descricao": "Educa\u00e7\u00e3o",
+                "idEixo": 1
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 59,
+                "descricao": "Obras em Im\u00f3veis de Uso P\u00fablico",
+                "idTipo": 3
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 2374535.92
+            }
+        ]
+    },
+    {
+        "idUnico": "33134.53-44",
+        "nome": "Restaura\u00e7\u00e3o pavimento DF-001 - 1 km",
+        "cep": null,
+        "endereco": null,
+        "descricao": "Restaura\u00e7\u00e3o e reconstru\u00e7\u00e3o de pavimento.",
+        "funcaoSocial": "Moradores das Cidades do Recanto das Emas e Riacho Fundo II.. Estrangulamento do tr\u00e2nsito e pontos de acidentes que  impactam no n\u00edvel de servi\u00e7o e consequentemente na qualidade de vida dos usu\u00e1rios da rodovia.. Melhora da fluidez do tr\u00e1fego local, bem como aumento da seguran\u00e7a vi\u00e1ria.",
+        "metaGlobal": "Restaura\u00e7\u00e3o e reconstru\u00e7\u00e3o de pavimento.",
+        "dataInicialPrevista": "2023-12-31",
+        "dataFinalPrevista": "2027-12-31",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2024-01-05",
+        "especie": "Constru\u00e7\u00e3o",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Cadastrada",
+        "descPlanoNacionalPoliticaVinculado": null,
+        "uf": "DF",
+        "qdtEmpregosGerados": null,
+        "descPopulacaoBeneficiada": null,
+        "populacaoBeneficiada": null,
+        "observacoesPertinentes": null,
+        "isModeladaPorBim": false,
+        "dataSituacao": "2024-01-05",
+        "tomadores": [],
+        "executores": [
+            {
+                "nome": "DEPARTAMENTO DE ESTRADAS DE RODAGEM DO DISTRITO FEDERAL",
+                "codigo": 70532000103
+            }
+        ],
+        "repassadores": [
+            {
+                "nome": "MINIST\u00c9RIO DAS CIDADES",
+                "codigo": 308798
+            }
+        ],
+        "eixos": [
+            {
+                "id": 3,
+                "descricao": "Econ\u00f4mico"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 24,
+                "descricao": "Infraestrutura Urbana e Mobilidade",
+                "idEixo": 3
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 58,
+                "descricao": "Pavimenta\u00e7\u00e3o",
+                "idTipo": 24
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 4431828.83
+            }
+        ]
+    },
+    {
+        "idUnico": "74582.53-90",
+        "nome": "PAC 2 - Cobertura de Quadra Escolar 035",
+        "cep": null,
+        "endereco": null,
+        "descricao": "PAC 2 - Cobertura de Quadra Escolar 035 Tipo de Obra",
+        "funcaoSocial": "PAC 2 - Cobertura de Quadra Escolar 035",
+        "metaGlobal": "Cobertura de Quadra Escolar Pequena",
+        "dataInicialPrevista": "2013-12-06",
+        "dataFinalPrevista": "2014-11-01",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2025-07-25",
+        "especie": "Reforma",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Cadastrada",
+        "descPlanoNacionalPoliticaVinculado": "Obras 2",
+        "uf": "DF",
+        "qdtEmpregosGerados": " ",
+        "descPopulacaoBeneficiada": "Descri\u00e7\u00e3o popula\u00e7\u00e3o beneficiada",
+        "populacaoBeneficiada": " ",
+        "observacoesPertinentes": "Informa\u00e7\u00f5es Obras Fundo Nacional de Desenvolvimento da Educa\u00e7\u00e3o",
+        "isModeladaPorBim": false,
+        "dataSituacao": "2025-07-25",
+        "tomadores": [],
+        "executores": [
+            {
+                "nome": "FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O",
+                "codigo": 253
+            }
+        ],
+        "repassadores": [],
+        "eixos": [
+            {
+                "id": 3,
+                "descricao": "Econ\u00f4mico"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 22,
+                "descricao": "Infraestrutura H\u00eddrica, Portos, Hidrovia",
+                "idEixo": 3
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 36,
+                "descricao": "Dragagem, Derrocamento e Associa\u00e7\u00f5es",
+                "idTipo": 22
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 0.01
+            }
+        ]
+    },
+    {
+        "idUnico": "28193.53-97",
+        "nome": "Implanta\u00e7\u00e3o de passarelas em estrutura mista nas rodovias do Sistema Rodovi\u00e1ria do Distrito Federal - SRDF",
+        "cep": null,
+        "endereco": null,
+        "descricao": "Implanta\u00e7\u00e3o de passarela de estrutura mista nas rodovias do Sistema Rodovi\u00e1rio do Distrito Federal - SRDF.",
+        "funcaoSocial": "Popula\u00e7\u00e3o do Distrito Federal que utilizam as rodovias que comp\u00f5em o SRDF.. Os acidentes de tr\u00e2nsito s\u00e3o uma das principais causas de mortes no Brasil, sendo que o atropelamento \u00e9 considerado o mais grave. Por\u00e9m estes acidentes em rodovias localizadas em trechos urbanos t\u00eam aumentado. A implanta\u00e7\u00e3o das passarelas\r\npossibilitar\u00e1 travessia segura, sobre as rodovias, em regi\u00f5es de acentuado adensamento urbano.. Redu\u00e7\u00e3o de acidentes por atropelamento, assim como promo\u00e7\u00e3o de local adequado para os usu\u00e1rios do sistema vi\u00e1rio.",
+        "metaGlobal": "Implanta\u00e7\u00e3o de passarela de estrutura mista nas rodovias do Sistema Rodovi\u00e1rio do Distrito Federal - SRDF.",
+        "dataInicialPrevista": "2023-11-27",
+        "dataFinalPrevista": "2027-11-27",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2023-11-22",
+        "especie": "Constru\u00e7\u00e3o",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Cadastrada",
+        "descPlanoNacionalPoliticaVinculado": null,
+        "uf": "DF",
+        "qdtEmpregosGerados": null,
+        "descPopulacaoBeneficiada": null,
+        "populacaoBeneficiada": null,
+        "observacoesPertinentes": null,
+        "isModeladaPorBim": false,
+        "dataSituacao": "2023-11-22",
+        "tomadores": [],
+        "executores": [
+            {
+                "nome": "DEPARTAMENTO DE ESTRADAS DE RODAGEM DO DISTRITO FEDERAL",
+                "codigo": 70532000103
+            }
+        ],
+        "repassadores": [
+            {
+                "nome": "MINIST\u00c9RIO DAS CIDADES",
+                "codigo": 308798
+            }
+        ],
+        "eixos": [
+            {
+                "id": 3,
+                "descricao": "Econ\u00f4mico"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 24,
+                "descricao": "Infraestrutura Urbana e Mobilidade",
+                "idEixo": 3
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 57,
+                "descricao": "Obra de Arte Especial",
+                "idTipo": 25
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 3120000.0
+            }
+        ]
+    },
+    {
+        "idUnico": "74617.53-99",
+        "nome": "PAC 2 - Cobertura de Quadra Escolar 044",
+        "cep": null,
+        "endereco": null,
+        "descricao": "PAC 2 - Cobertura de Quadra Escolar 044 Tipo de Obra",
+        "funcaoSocial": "PAC 2 - Cobertura de Quadra Escolar 044",
+        "metaGlobal": "Cobertura de Quadra Escolar Pequena",
+        "dataInicialPrevista": "2013-10-30",
+        "dataFinalPrevista": "2014-09-25",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2025-07-25",
+        "especie": "Reforma",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Cadastrada",
+        "descPlanoNacionalPoliticaVinculado": "Obras 2",
+        "uf": "DF",
+        "qdtEmpregosGerados": " ",
+        "descPopulacaoBeneficiada": "Descri\u00e7\u00e3o popula\u00e7\u00e3o beneficiada",
+        "populacaoBeneficiada": " ",
+        "observacoesPertinentes": "Informa\u00e7\u00f5es Obras Fundo Nacional de Desenvolvimento da Educa\u00e7\u00e3o",
+        "isModeladaPorBim": false,
+        "dataSituacao": "2025-07-25",
+        "tomadores": [],
+        "executores": [
+            {
+                "nome": "FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O",
+                "codigo": 253
+            }
+        ],
+        "repassadores": [],
+        "eixos": [
+            {
+                "id": 3,
+                "descricao": "Econ\u00f4mico"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 22,
+                "descricao": "Infraestrutura H\u00eddrica, Portos, Hidrovia",
+                "idEixo": 3
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 36,
+                "descricao": "Dragagem, Derrocamento e Associa\u00e7\u00f5es",
+                "idTipo": 22
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 0.01
+            }
+        ]
+    },
+    {
+        "idUnico": "74576.53-48",
+        "nome": "PAC 2 - Cobertura de Quadra Escolar 062",
+        "cep": null,
+        "endereco": null,
+        "descricao": "PAC 2 - Cobertura de Quadra Escolar 062 Constru\u00e7\u00e3o",
+        "funcaoSocial": "PAC 2 - Cobertura de Quadra Escolar 062",
+        "metaGlobal": "Cobertura de Quadra Escolar Pequena",
+        "dataInicialPrevista": "2013-10-30",
+        "dataFinalPrevista": "2014-11-29",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2025-07-25",
+        "especie": "Reforma",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Cadastrada",
+        "descPlanoNacionalPoliticaVinculado": "Obras 2",
+        "uf": "DF",
+        "qdtEmpregosGerados": " ",
+        "descPopulacaoBeneficiada": "Descri\u00e7\u00e3o popula\u00e7\u00e3o beneficiada",
+        "populacaoBeneficiada": " ",
+        "observacoesPertinentes": "Informa\u00e7\u00f5es Obras Fundo Nacional de Desenvolvimento da Educa\u00e7\u00e3o",
+        "isModeladaPorBim": false,
+        "dataSituacao": "2025-07-25",
+        "tomadores": [],
+        "executores": [
+            {
+                "nome": "FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O",
+                "codigo": 253
+            }
+        ],
+        "repassadores": [],
+        "eixos": [
+            {
+                "id": 3,
+                "descricao": "Econ\u00f4mico"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 22,
+                "descricao": "Infraestrutura H\u00eddrica, Portos, Hidrovia",
+                "idEixo": 3
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 36,
+                "descricao": "Dragagem, Derrocamento e Associa\u00e7\u00f5es",
+                "idTipo": 22
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 0.01
+            }
+        ]
+    },
+    {
+        "idUnico": "74587.53-61",
+        "nome": "PAC 2 - Cobertura de Quadra Escolar 045",
+        "cep": null,
+        "endereco": null,
+        "descricao": "PAC 2 - Cobertura de Quadra Escolar 045 Tipo de Obra",
+        "funcaoSocial": "PAC 2 - Cobertura de Quadra Escolar 045",
+        "metaGlobal": "Cobertura de Quadra Escolar Pequena",
+        "dataInicialPrevista": "2013-10-30",
+        "dataFinalPrevista": "2014-09-25",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2025-07-25",
+        "especie": "Reforma",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Cadastrada",
+        "descPlanoNacionalPoliticaVinculado": "Obras 2",
+        "uf": "DF",
+        "qdtEmpregosGerados": " ",
+        "descPopulacaoBeneficiada": "Descri\u00e7\u00e3o popula\u00e7\u00e3o beneficiada",
+        "populacaoBeneficiada": " ",
+        "observacoesPertinentes": "Informa\u00e7\u00f5es Obras Fundo Nacional de Desenvolvimento da Educa\u00e7\u00e3o",
+        "isModeladaPorBim": false,
+        "dataSituacao": "2025-07-25",
+        "tomadores": [],
+        "executores": [
+            {
+                "nome": "FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O",
+                "codigo": 253
+            }
+        ],
+        "repassadores": [],
+        "eixos": [
+            {
+                "id": 3,
+                "descricao": "Econ\u00f4mico"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 22,
+                "descricao": "Infraestrutura H\u00eddrica, Portos, Hidrovia",
+                "idEixo": 3
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 36,
+                "descricao": "Dragagem, Derrocamento e Associa\u00e7\u00f5es",
+                "idTipo": 22
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 0.01
+            }
+        ]
+    },
+    {
+        "idUnico": "74583.53-46",
+        "nome": "PAC 2 - Cobertura de Quadra Escolar 053",
+        "cep": null,
+        "endereco": null,
+        "descricao": "PAC 2 - Cobertura de Quadra Escolar 053 Constru\u00e7\u00e3o",
+        "funcaoSocial": "PAC 2 - Cobertura de Quadra Escolar 053",
+        "metaGlobal": "Cobertura de Quadra Escolar Pequena",
+        "dataInicialPrevista": "2013-10-30",
+        "dataFinalPrevista": "2014-11-29",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2025-07-25",
+        "especie": "Reforma",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Cadastrada",
+        "descPlanoNacionalPoliticaVinculado": "Obras 2",
+        "uf": "DF",
+        "qdtEmpregosGerados": " ",
+        "descPopulacaoBeneficiada": "Descri\u00e7\u00e3o popula\u00e7\u00e3o beneficiada",
+        "populacaoBeneficiada": " ",
+        "observacoesPertinentes": "Informa\u00e7\u00f5es Obras Fundo Nacional de Desenvolvimento da Educa\u00e7\u00e3o",
+        "isModeladaPorBim": false,
+        "dataSituacao": "2025-07-25",
+        "tomadores": [],
+        "executores": [
+            {
+                "nome": "FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O",
+                "codigo": 253
+            }
+        ],
+        "repassadores": [],
+        "eixos": [
+            {
+                "id": 3,
+                "descricao": "Econ\u00f4mico"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 22,
+                "descricao": "Infraestrutura H\u00eddrica, Portos, Hidrovia",
+                "idEixo": 3
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 36,
+                "descricao": "Dragagem, Derrocamento e Associa\u00e7\u00f5es",
+                "idTipo": 22
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 0.01
+            }
+        ]
+    },
+    {
+        "idUnico": "74593.53-03",
+        "nome": "PAC 2 - Cobertura de Quadra Escolar 060",
+        "cep": null,
+        "endereco": null,
+        "descricao": "PAC 2 - Cobertura de Quadra Escolar 060 Tipo de Obra",
+        "funcaoSocial": "PAC 2 - Cobertura de Quadra Escolar 060",
+        "metaGlobal": "Cobertura de Quadra Escolar Pequena",
+        "dataInicialPrevista": "2013-12-06",
+        "dataFinalPrevista": "2014-10-02",
+        "dataInicialEfetiva": null,
+        "dataFinalEfetiva": null,
+        "dataCadastro": "2025-07-25",
+        "especie": "Reforma",
+        "natureza": "Obra",
+        "naturezaOutras": null,
+        "situacao": "Cadastrada",
+        "descPlanoNacionalPoliticaVinculado": "Obras 2",
+        "uf": "DF",
+        "qdtEmpregosGerados": " ",
+        "descPopulacaoBeneficiada": "Descri\u00e7\u00e3o popula\u00e7\u00e3o beneficiada",
+        "populacaoBeneficiada": " ",
+        "observacoesPertinentes": "Informa\u00e7\u00f5es Obras Fundo Nacional de Desenvolvimento da Educa\u00e7\u00e3o",
+        "isModeladaPorBim": false,
+        "dataSituacao": "2025-07-25",
+        "tomadores": [],
+        "executores": [
+            {
+                "nome": "FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O",
+                "codigo": 253
+            }
+        ],
+        "repassadores": [],
+        "eixos": [
+            {
+                "id": 3,
+                "descricao": "Econ\u00f4mico"
+            }
+        ],
+        "tipos": [
+            {
+                "id": 22,
+                "descricao": "Infraestrutura H\u00eddrica, Portos, Hidrovia",
+                "idEixo": 3
+            }
+        ],
+        "subTipos": [
+            {
+                "id": 36,
+                "descricao": "Dragagem, Derrocamento e Associa\u00e7\u00f5es",
+                "idTipo": 22
+            }
+        ],
+        "fontesDeRecurso": [
+            {
+                "origem": "Federal",
+                "valorInvestimentoPrevisto": 0.01
+            }
+        ]
+    }
+]
