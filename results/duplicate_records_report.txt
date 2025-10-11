@@ -1,0 +1,318 @@
+Report of Records with Differing List Values
+==========================================
+
+idUnico: 58040.53-03
+Differing columns: subTipos
+
+subTipos:
+  Row 128: [{'id': 15, 'descricao': 'Aquisição de Máquinas e Equipamentos', 'idTipo': 41}]
+  Row 479: [{'id': 15, 'descricao': 'Aquisição de Máquinas e Equipamentos', 'idTipo': 14}]
+
+==================================================
+
+idUnico: 44144.53-80
+Differing columns: subTipos
+
+subTipos:
+  Row 133: [{'id': 90, 'descricao': 'Preservação do Patrimônio', 'idTipo': 5}]
+  Row 491: [{'id': 90, 'descricao': 'Preservação do Patrimônio', 'idTipo': 43}]
+
+==================================================
+
+idUnico: 5566.53-07
+Differing columns: subTipos
+
+subTipos:
+  Row 307: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 5}]
+  Row 745: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 1}]
+
+==================================================
+
+idUnico: 4072.53-10
+Differing columns: subTipos
+
+subTipos:
+  Row 308: [{'id': 90, 'descricao': 'Preservação do Patrimônio', 'idTipo': 5}]
+  Row 753: [{'id': 90, 'descricao': 'Preservação do Patrimônio', 'idTipo': 1}]
+
+==================================================
+
+idUnico: 13422.53-09
+Differing columns: subTipos
+
+subTipos:
+  Row 310: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 5}]
+  Row 771: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 1}]
+
+==================================================
+
+idUnico: 3834.53-15
+Differing columns: subTipos
+
+subTipos:
+  Row 311: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 5}]
+  Row 777: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 1}]
+
+==================================================
+
+idUnico: 4874.53-08
+Differing columns: subTipos
+
+subTipos:
+  Row 312: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 5}]
+  Row 783: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 1}]
+
+==================================================
+
+idUnico: 2039.53-99
+Differing columns: subTipos
+
+subTipos:
+  Row 313: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 5}]
+  Row 785: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 1}]
+
+==================================================
+
+idUnico: 1729.53-04
+Differing columns: subTipos
+
+subTipos:
+  Row 314: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 5}]
+  Row 789: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 1}]
+
+==================================================
+
+idUnico: 4067.53-69
+Differing columns: subTipos
+
+subTipos:
+  Row 315: [{'id': 90, 'descricao': 'Preservação do Patrimônio', 'idTipo': 5}]
+  Row 797: [{'id': 90, 'descricao': 'Preservação do Patrimônio', 'idTipo': 1}]
+
+==================================================
+
+idUnico: 6773.53-31
+Differing columns: subTipos
+
+subTipos:
+  Row 316: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 5}]
+  Row 801: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 1}]
+
+==================================================
+
+idUnico: 51694.53-00
+Differing columns: subTipos
+
+subTipos:
+  Row 317: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 5}]
+  Row 810: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 1}]
+
+==================================================
+
+idUnico: 51703.53-57
+Differing columns: subTipos
+
+subTipos:
+  Row 318: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 5}, {'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 5}]
+  Row 822: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 1}, {'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 1}]
+
+==================================================
+
+idUnico: 51692.53-08
+Differing columns: subTipos
+
+subTipos:
+  Row 335: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 5}]
+  Row 809: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 1}]
+
+==================================================
+
+idUnico: 51700.53-98
+Differing columns: subTipos
+
+subTipos:
+  Row 336: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 5}]
+  Row 816: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 1}]
+
+==================================================
+
+idUnico: 46837.53-58
+Differing columns: subTipos
+
+subTipos:
+  Row 337: [{'id': 75, 'descricao': 'Urbanização', 'idTipo': 30}]
+  Row 818: [{'id': 75, 'descricao': 'Urbanização', 'idTipo': 37}]
+
+==================================================
+
+idUnico: 51701.53-44
+Differing columns: subTipos
+
+subTipos:
+  Row 340: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 5}, {'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 5}]
+  Row 829: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 1}, {'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 1}]
+
+==================================================
+
+idUnico: 53527.53-19
+Differing columns: subTipos
+
+subTipos:
+  Row 342: [{'id': 78, 'descricao': 'CAPS', 'idTipo': 39}]
+  Row 833: [{'id': 78, 'descricao': 'CAPS', 'idTipo': 6}]
+
+==================================================
+
+idUnico: 31059.53-04
+Differing columns: subTipos
+
+subTipos:
+  Row 363: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 5}]
+  Row 671: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 1}]
+
+==================================================
+
+idUnico: 31061.53-30
+Differing columns: subTipos
+
+subTipos:
+  Row 364: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 5}]
+  Row 672: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 1}]
+
+==================================================
+
+idUnico: 34873.53-33
+Differing columns: subTipos
+
+subTipos:
+  Row 387: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 5}]
+  Row 635: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 1}]
+
+==================================================
+
+idUnico: 64.53-30
+Differing columns: subTipos
+
+subTipos:
+  Row 388: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 5}]
+  Row 636: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 1}]
+
+==================================================
+
+idUnico: 3594.53-07
+Differing columns: subTipos
+
+subTipos:
+  Row 391: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 5}]
+  Row 681: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 1}]
+
+==================================================
+
+idUnico: 37139.53-42
+Differing columns: subTipos
+
+subTipos:
+  Row 392: [{'id': 38, 'descricao': 'Saneamento', 'idTipo': 37}, {'id': 38, 'descricao': 'Saneamento', 'idTipo': 37}]
+  Row 693: [{'id': 38, 'descricao': 'Saneamento', 'idTipo': 39}, {'id': 38, 'descricao': 'Saneamento', 'idTipo': 39}]
+
+==================================================
+
+idUnico: 43724.53-06
+Differing columns: subTipos
+
+subTipos:
+  Row 393: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 5}]
+  Row 638: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 1}]
+
+==================================================
+
+idUnico: 36482.53-10
+Differing columns: subTipos
+
+subTipos:
+  Row 397: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 5}]
+  Row 657: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 1}]
+
+==================================================
+
+idUnico: 50856.53-21
+Differing columns: subTipos
+
+subTipos:
+  Row 398: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 5}]
+  Row 658: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 1}]
+
+==================================================
+
+idUnico: 50835.53-40
+Differing columns: subTipos
+
+subTipos:
+  Row 399: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 5}]
+  Row 686: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 1}]
+
+==================================================
+
+idUnico: 43325.53-70
+Differing columns: subTipos
+
+subTipos:
+  Row 410: [{'id': 47, 'descricao': 'Instituições Hospitalares Federais', 'idTipo': 4}]
+  Row 724: [{'id': 47, 'descricao': 'Instituições Hospitalares Federais', 'idTipo': 18}]
+
+==================================================
+
+idUnico: 4196.53-05
+Differing columns: subTipos
+
+subTipos:
+  Row 414: [{'id': 47, 'descricao': 'Instituições Hospitalares Federais', 'idTipo': 4}]
+  Row 730: [{'id': 47, 'descricao': 'Instituições Hospitalares Federais', 'idTipo': 18}]
+
+==================================================
+
+idUnico: 59959.53-00
+Differing columns: subTipos
+
+subTipos:
+  Row 434: [{'id': 19, 'descricao': 'Barragem', 'idTipo': 22}, {'id': 72, 'descricao': 'Terminal', 'idTipo': 22}, {'id': 90, 'descricao': 'Preservação do Patrimônio', 'idTipo': 43}, {'id': 36, 'descricao': 'Dragagem, Derrocamento e Associações', 'idTipo': 22}, {'id': 43, 'descricao': 'Hidrovia', 'idTipo': 22}]
+  Row 718: [{'id': 19, 'descricao': 'Barragem', 'idTipo': 22}, {'id': 72, 'descricao': 'Terminal', 'idTipo': 27}, {'id': 90, 'descricao': 'Preservação do Patrimônio', 'idTipo': 5}, {'id': 36, 'descricao': 'Dragagem, Derrocamento e Associações', 'idTipo': 22}, {'id': 43, 'descricao': 'Hidrovia', 'idTipo': 22}]
+
+==================================================
+
+idUnico: 4219.53-90
+Differing columns: subTipos
+
+subTipos:
+  Row 469: [{'id': 90, 'descricao': 'Preservação do Patrimônio', 'idTipo': 43}]
+  Row 732: [{'id': 90, 'descricao': 'Preservação do Patrimônio', 'idTipo': 5}]
+
+==================================================
+
+idUnico: 95932.53-25
+Differing columns: subTipos
+
+subTipos:
+  Row 524: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 3}]
+  Row 587: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 1}]
+
+==================================================
+
+idUnico: 95933.53-81
+Differing columns: subTipos
+
+subTipos:
+  Row 525: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 3}]
+  Row 588: [{'id': 59, 'descricao': 'Obras em Imóveis de Uso Público', 'idTipo': 1}]
+
+==================================================
+
+idUnico: 28193.53-97
+Differing columns: subTipos
+
+subTipos:
+  Row 528: [{'id': 57, 'descricao': 'Obra de Arte Especial', 'idTipo': 25}]
+  Row 624: [{'id': 57, 'descricao': 'Obra de Arte Especial', 'idTipo': 24}]
+
+==================================================
+
