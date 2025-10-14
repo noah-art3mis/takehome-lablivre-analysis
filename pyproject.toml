@@ -10,6 +10,7 @@ dependencies = [
     "hdbscan>=0.8.40",
     "ipykernel>=6.30.1",
     "matplotlib>=3.10.7",
+    "nbformat>=5.10.4",
     "pandas>=2.3.3",
     "pingouin>=0.5.5",
     "pyarrow>=21.0.0",
