@@ -1,0 +1,15 @@
+1.  alguns nomes são apenas códigos (`26.782.2087.7T98.0025`)
+
+1.  `descPopulacaoBeneficiada` com texto padrão
+
+1.  `populacaoBeneficiada` alguns registros todos em maiusculo ('CONSTRUÇÃO DO NOVO IML DA PCDF')
+
+1.  `descPlanoNacionalPoliticaVinculado`: alguns usuários tratam como valor categórico e outros como texto
+
+1.  organizacoes com mais de um codigo, como: "PRESIDÊNCIA DA REPÚBLICA" (codigo 26) e "Presidencia da República" (codigo 20000)
+
+1.  projetos com investimento entre 1 e 10 milhões com duração prevista de zero dias.
+
+1.  dados duplicados que diferem apenas em subTipo, como: dois registros com id 15 e mesma descrição "Aquisição de Máquinas e Equipamentos", mas idTipo diferentes (41 e 14).
+
+1.  Vários campos (`cep`, `endereco`, `qdtEmpregosGerados`) preenchidos com um espaço em branco. em particular, 125 registros similares com os mesmos problemas (string vazia em vez de int em `qdtEmpregosGerados` e `populacaoBeneficiada`)
